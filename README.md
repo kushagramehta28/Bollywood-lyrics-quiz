@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Live Demo
+[Visit the website](https://bollywood-lyrics-quiz-6xl1s48jx-kushagra-mehtas-projects.vercel.app)
 
 ## Getting Started
 
